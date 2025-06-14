@@ -1,15 +1,13 @@
 # SMART HYDRO
 
-
-## Basic Details
-### Team Name: SMART HYDRO
+### Team Name: SMART_HYDRO
 
 
 ### Team Members
 - Team Lead: JERALD JAXON - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
-- Member 2: AJOY ANTONY - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
-- Member 3: AMRITHA V.S - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
-- Member 4: SANJANA JOJY - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
+- Member 2:  AJOY ANTONY  - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
+- Member 3:  AMRITHA V.S  - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
+- Member 4:  SANJANA JOJY - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
 
 ### Project Description
 Smart Hydro is an intelligent water monitoring and management system tailored for non-agricultural applications. Designed for environments where precision and reliability are critical, Smart Hydro ensures efficient water usage, proactive leak detection, and continuous quality monitoring.
