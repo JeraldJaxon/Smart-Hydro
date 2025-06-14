@@ -75,18 +75,18 @@ Powers the ESP32 and connected sensors and actuators reliably.
 
 
 ### Implementation
-For Software:
 # Installation
-https://www.arduino.cc/en/software
+
+Arduino IDE - https://www.arduino.cc/en/software
+
+Blynk - https://blynk.io/
 
 ### Project Documentation
-For Software:
 
 # Final 
 ![WhatsApp Image 2025-06-14 at 8 14 20 PM](https://github.com/user-attachments/assets/ca6d1bdb-fa5c-4976-9f71-c7efff6b3f1c)
 
 ![WhatsApp Image 2025-06-14 at 8 14 21 PM (2)](https://github.com/user-attachments/assets/b1bfb96f-6369-4ea3-a6f2-01996ec94091)
-
 
 
 # Diagrams
