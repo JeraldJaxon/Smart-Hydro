@@ -1,6 +1,6 @@
 # SMART HYDRO
 
-# BASIC DETAILS
+## Basic Details
 ### Team Name: SMART_HYDRO
 
 
