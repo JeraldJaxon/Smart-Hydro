@@ -19,6 +19,28 @@ Modern water systems are flawless. Pipes never leak. pH levels are always perfec
 ### The Solution 
 Smart Hydro delivers a comprehensive, automated approach to hydroponic system monitoring. By integrating multiple sensors and real-time alerts via IoT, it ensures optimal performance, early issue detection, and minimal manual intervention — offering reliability, even when it’s not expected.
 
+# 🔍 Features
+### 📡 Sensor Integration:
+
+pH sensor – Monitors solution acidity/alkalinity.
+
+Ultrasonic sensor – Measures water level accurately.
+
+Temperature sensor – Tracks nutrient solution temperature.
+
+Flow sensor – Detects water flow through the system.
+
+Soil moisture sensor – Used only to detect leaks at pipe joints.
+
+### 💡 Real-time Monitoring:
+
+Integrated with Blynk IoT app for live data visualization and alerts.
+
+### 🔔 Smart Alerts & Automation:
+
+Automatically triggers relays if critical values (e.g., low water level or pH imbalance) are detected.
+
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
